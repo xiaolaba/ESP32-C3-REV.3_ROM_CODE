@@ -1,16 +1,19 @@
 ### ESP32-C3-REV.3_ROM_CODE
 
 dump and try to understand the ROM code  
-download  
 
+### download  
 https://www.esp32.com/viewtopic.php?t=21331 https://dl.espressif.com/dl/esp32c3_rev3_rom.elf  
-elf parser
 
+### elf parser
 http://www.sunshine2k.de/coding/javascript/onlineelfviewer/onlineelfviewer.html  
 https://github.com/horsicq/XELFViewer/releases  
 
+### direct boot and memory map,
+https://github.com/espressif/esp32c3-direct-boot-example/blob/main/README.md
 
-partial info, complete text see [esp32c3_rev3_rom_elf.txt](esp32c3_rev3_rom_elf.txt)
+### partial info, 
+complete text see [esp32c3_rev3_rom_elf.txt](esp32c3_rev3_rom_elf.txt)
 ```
 Result:
 ELF header
