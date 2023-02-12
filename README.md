@@ -3,7 +3,8 @@
 dump and try to understand the ROM code  
 
 ### download  
-https://www.esp32.com/viewtopic.php?t=21331 https://dl.espressif.com/dl/esp32c3_rev3_rom.elf  
+https://www.esp32.com/viewtopic.php?t=21331   
+https://dl.espressif.com/dl/esp32c3_rev3_rom.elf  
 
 ### elf parser
 http://www.sunshine2k.de/coding/javascript/onlineelfviewer/onlineelfviewer.html  
